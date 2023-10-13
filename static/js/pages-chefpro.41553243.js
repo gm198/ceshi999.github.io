@@ -52004,7 +52004,7 @@ object-assign
         e.exports = a
     },
     f2d0: function(e, a, t) {
-        e.exports = t.p + "/static/img/logo.73f8fc57.png"
+        e.exports = t.p + "../static/img/logo.73f8fc57.png"
     },
     f3a3: function(e, a, t) {
         "use strict";
