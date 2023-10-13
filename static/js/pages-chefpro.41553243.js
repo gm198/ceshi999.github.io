@@ -23055,7 +23055,7 @@ object-assign
                     opacity: "0.9"
                 },
                 attrs: {
-                    src: "/static/img/1.png"
+                    src: "static/img/1.png"
                 },
                 on: {
                     click: function(a) {
@@ -23070,7 +23070,7 @@ object-assign
                     opacity: "0.9"
                 },
                 attrs: {
-                    src: "/static/img/2.png"
+                    src: "static/img/2.png"
                 },
                 on: {
                     click: function(a) {
@@ -23089,7 +23089,7 @@ object-assign
                     height: "44px"
                 },
                 attrs: {
-                    src: "/static/img/4.png"
+                    src: "static/img/4.png"
                 },
                 on: {
                     click: function(a) {
@@ -23104,7 +23104,7 @@ object-assign
                     opacity: "0.9"
                 },
                 attrs: {
-                    src: "/static/img/5.png"
+                    src: "static/img/5.png"
                 },
                 on: {
                     click: function(a) {
@@ -23122,7 +23122,7 @@ object-assign
                     height: "18px"
                 },
                 attrs: {
-                    src: "/static/img/3.png"
+                    src: "static/img/3.png"
                 },
                 on: {
                     click: function(a) {
