@@ -23055,7 +23055,7 @@ object-assign
                     opacity: "0.9"
                 },
                 attrs: {
-                    src: "/ceshi999.github.io/static/img/1.png"
+                    src: "/static/img/1.png"
                 },
                 on: {
                     click: function(a) {
